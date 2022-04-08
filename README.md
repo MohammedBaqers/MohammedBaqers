@@ -10,6 +10,7 @@
  &nbsp;  &nbsp;},<br>
  &nbsp; "Front-End":{<br>
   &nbsp;&nbsp;&nbsp;&nbsp;  "HTML":"^5.0.0"<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;  "CSS":"^3.0.0"<br>
    &nbsp;&nbsp;&nbsp;&nbsp; "Dart": "^2.16.1"<br>
    &nbsp;&nbsp;&nbsp;&nbsp;"JaveScript":"ES6"<br>
  &nbsp;  &nbsp;},<br>
